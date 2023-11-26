@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{19100C96-476F-6158-F9D3-8794068980BA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "p1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
